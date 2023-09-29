@@ -1,0 +1,10 @@
+Here are some papers related to Transformer architecture and high-level synthesis using Xilinx Vitis:
+
+1. [Array-Specific Dataflow Caches for High-Level Synthesis of Memory-Intensive Algorithms on FPGAs](https://dx.doi.org/10.1109/ACCESS.2022.3219868) by Giovanni Brignone, M. Usman Jamal, M. Lazarescu, L. Lavagno. This paper proposes an automation of the FPGA memory management in Xilinx Vitis HLS through a fully-configurable C++ source-level cache. [PDF Link](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09940270.pdf)
+
+2. [FLOWER: A comprehensive dataflow compiler for high-level synthesis](https://dx.doi.org/10.1109/ICFPT52863.2021.9609930) by Puya Amiri, Arsène Pérard-Gayot, Richard Membarth, P. Slusallek, Roland Leißa, Sebastian Hack. This work presents FLOWER, a comprehensive compiler infrastructure that provides automatic canonical transformations for high-level synthesis from a domain-specific library. [PDF Link](http://arxiv.org/pdf/2112.07789)
+
+3. [A Highly Configurable High-Level Synthesis Functional Pattern Library](https://dx.doi.org/10.3390/ELECTRONICS10050532) by Lan Huang, Teng Gao, Dalin Li, Z. Wang, Kangping Wang. This paper proposes a set of functional patterns libraries based on the MapReduce model, implemented by C++ templates, which can quickly implement high-performance parallel pipelined computing models on FPGA with specified simple parameters. [PDF Link](https://www.mdpi.com/2079-9292/10/5/532/pdf?version=1614760575)
+
+4. [AEx: Automated High-Level Synthesis of Compiler Programmable Co-Processors](https://dx.doi.org/10.1007/s11265-023-01841-3) by Alex Hirvonen, Topi Leppänen, Kari Hepola, Joonas Multanen, J. Hoozemans, P. Jääskeläinen. This paper describes the status of AEx, a novel work-in-progress HLS tool developed in the FitOptiVis ECSEL JU project. AEx is based on automated exploration of architectures using a flexible and lightweight parallel co-processor template. [PDF Link](https://link.springer.com/content/pdf/10.1007/s11265-023-01841-3.pdf)
+

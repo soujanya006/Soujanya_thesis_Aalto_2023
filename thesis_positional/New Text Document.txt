@@ -1,0 +1,5 @@
+this is the final source code  and im proving the c synthesis result please interptete
+
+target=10ns, estimated=6.97ns, uncertainity=2.70ns
+
+there are 2 rows .......................1st row  positional_encoding latency(cycle)=48, latency (ns) =480ns, interval =49,  pipeline =no, bram=1, dsp=35, ff=5289,lut=9910, uram=0..................row 2... positional_encoding_loop1_positional_encoding_loop2..............latency(cycle)=46, latency (ns) =460 ns, iteration latency=36, interval =1, trip count=12, pipeline =yes, bram=not applicable, dsp=not applicable, ff=not applicable ,lut=not applicable, uram=not applicable
